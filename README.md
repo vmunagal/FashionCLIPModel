@@ -8,4 +8,5 @@ Model was implemented based on below search paper.
 
 https://arxiv.org/pdf/2103.00020.pdf
 
+Soon i gone release the deployment of it . Watch out for my github  :)
 
